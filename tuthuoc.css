@@ -1,0 +1,117 @@
+.button, .content-main .main__button--button, #boxTuThuoc .content__main--right .main__button--button, #boxTuThuoc .content__main .content__main--left .main__button--button {
+  background: radial-gradient(143.96% 215.88% at 45.83% 54.55%, rgba(11, 24, 27, 0.5) 0%, rgba(24, 121, 104, 0.5) 51.28%, rgba(0, 200, 164, 0.5) 100%), #20C8A7;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 10px;
+  line-height: 120%;
+  color: #FFFFFF;
+  border: 0px;
+  width: 97px;
+  height: 23px; }
+
+.title-up, .content-main .main__tittle--up, #boxTuThuoc .content__main--right .main__tittle--up, #boxTuThuoc .content__main .content__main--left .main__tittle--up {
+  margin: 0px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-size: 14px;
+  line-height: 130%;
+  text-align: center;
+  color: #333333; }
+
+.title-down, .content-main .main__tittle--down, #boxTuThuoc .content__main--right .main__tittle--down, #boxTuThuoc .content__main .content__main--left .main__tittle--down {
+  margin: 0px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 120%;
+  color: #555555;
+  width: 181px;
+  height: 68px;
+  padding-left: 10px; }
+
+.content-main, #boxTuThuoc .content__main--right, #boxTuThuoc .content__main .content__main--left {
+  background: #FFFFFF;
+  box-shadow: 0px 0px 7px rgba(136, 136, 136, 0.25);
+  border-radius: 5px;
+  width: 200px;
+  height: 300px;
+  margin-left: 10px; }
+  .content-main .main__image, #boxTuThuoc .content__main--right .main__image, #boxTuThuoc .content__main .content__main--left .main__image {
+    padding: 10px 10px 0px 9px; }
+  .content-main .main__tittle, #boxTuThuoc .content__main--right .main__tittle, #boxTuThuoc .content__main .content__main--left .main__tittle {
+    height: 65px;
+    width: 181px; }
+  .content-main .main__button, #boxTuThuoc .content__main--right .main__button, #boxTuThuoc .content__main .content__main--left .main__button {
+    margin-left: 48px; }
+
+#boxTuThuoc {
+  width: 300px;
+  height: 600px;
+  background: #F9F9F9;
+  border: 0.1px solid #dbd4d4;
+  box-shadow: 0px 0px 6px 3px, rgba(219, 219, 219, 0.25);
+  border-radius: 10px; }
+  #boxTuThuoc .header {
+    width: 560px;
+    height: 40px;
+    display: flex;
+    padding-bottom: 7px;
+    padding-top: 3px; }
+    #boxTuThuoc .header .header__img {
+      width: 30px;
+      height: 27px;
+      margin-top: 6px;
+      margin-left: 21px;
+      margin-right: 4px;
+      box-shadow: 0px 4px 4px rgba(185, 185, 185, 0.25); }
+    #boxTuThuoc .header .header__text {
+      width: 67px;
+      height: 32px;
+      font-family: Roboto;
+      font-style: normal;
+      font-weight: 700;
+      font-size: 13px;
+      line-height: 16px;
+      color: #259384;
+      margin-top: 6px; }
+    #boxTuThuoc .header .header__logo {
+      margin-left: 94px; }
+  #boxTuThuoc .slider .slider__above {
+    position: absolute;
+    padding-left: 6px; }
+  #boxTuThuoc .slider .slider__back {
+    padding-top: 40px;
+    padding-bottom: 40px; }
+  #boxTuThuoc .slider .slider__tab {
+    padding-left: 138px;
+    padding-top: 10px;
+    padding-bottom: 11px; }
+  #boxTuThuoc .content {
+    position: relative; }
+    #boxTuThuoc .content__main {
+      display: flex;
+      overflow: hidden; }
+  #boxTuThuoc .footer__text {
+    position: absolute;
+    width: 300px;
+    height: 75px;
+    background: radial-gradient(143.96% 215.88% at 45.83% 54.55%, rgba(11, 24, 27, 0.5) 0%, rgba(24, 121, 104, 0.5) 51.28%, rgba(0, 200, 164, 0.5) 100%), #20C8A7;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 0px 0px 10px 10px;
+    font-family: 'Roboto';
+    font-style: italic;
+    font-size: 10px;
+    line-height: 12px;
+    color: #FFFFFF;
+    border: 0px;
+    width: 284px;
+    height: 40px;
+    margin-top: 270px;
+    text-align: left;
+    padding: 36px 5px 5px 11px; }
+
+/*# sourceMappingURL=tuthuoc.css.map */
